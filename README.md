@@ -32,4 +32,3 @@ data.createdAt
 ## 실행
 - Python 3.11 이상
 - `python main.py` 명령어로 실행합니다.
-- 근데 활용도가 없을듯...
